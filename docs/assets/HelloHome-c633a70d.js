@@ -1,1 +1,0 @@
-import{u as e,o,c as t}from"./index-50eb84bd.js";const l={__name:"HelloHome",setup(a){return e({title:"Vue 3 | Home",meta:[{name:"description",content:"This is a HOME page from Vue 3 App"}]}),(n,s)=>(o(),t("h1",null,"View Hello Home"))}};export{l as default};
