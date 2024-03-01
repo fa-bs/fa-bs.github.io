@@ -86,10 +86,16 @@ main {
     margin-right: 10px;
     transition: .5s ease-in-out;
 
-    &:hover {
+    /* not work firefox */
+    /* &:hover {
         opacity: .5;
         transition: .2s ease-in-out;
-    }
+    } */
+}
+
+.social-links a:hover {
+    opacity: .5;
+    transition: .2s ease-in-out;
 }
 
 @media screen and (max-width: 576px) {
