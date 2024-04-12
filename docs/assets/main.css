@@ -29,9 +29,7 @@
     --green: #26d97a
 }
 
-main {
-    height: 100vh;
-    margin: 0 auto;
+body {
     background-color: var(--black);
 }
 
@@ -46,13 +44,11 @@ h3 {
 
 .wrapper {
     width: 585px;
-    height: 70%;
     display: flex;
     flex-direction: column;
     gap: 0.1rem;
     align-items: center;
-    justify-content: center;
-    margin: 0 auto;
+    margin: 50px auto;
     animation: fade-in 2s ease-in-out;
 }
 
