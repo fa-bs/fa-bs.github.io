@@ -21,6 +21,10 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
+    scrollbar-color: #FEA802 #F9EFE6;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+
     /* var */
     --black: #252525;
     --white: #F9EFE6;
