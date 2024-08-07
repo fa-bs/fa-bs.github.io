@@ -76,7 +76,7 @@ h3 {
 }
 
 .coming-soon {
-    font-size: 5.5rem;
+    font-size: 5.4rem;
     color: var(--white);
     /* background: -webkit-linear-gradient(315deg, var(--white), var(--purpler)); */
     text-transform: lowercase;
@@ -168,11 +168,12 @@ footer {
     }
 
     .coming-soon {
-        font-size: 3rem;
+        font-size: 2.9rem;
     }
 
     .social-links {
         align-self: flex-start;
+        margin-left: 7px;
     }
 
     .portfolio {
