@@ -109,9 +109,9 @@ h3 {
     } */
 }
 
-.social-links a:hover {
-    opacity: .5;
-    transition: .2s ease-in-out;
+.social-links:hover> :not(:hover) {
+    opacity: .3;
+    transition: .3s ease-in-out;
 }
 
 .about {
