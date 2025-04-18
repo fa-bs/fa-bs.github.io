@@ -1,0 +1,1 @@
+import{_ as a}from"./7XpVtL3-.js";import{_ as s,c as n,o as r,a as c,d as e,ak as _,F as l}from"./C8mwrqmS.js";import"./DGfenDhX.js";import"./FSMCRH6H.js";const m={},p={class:"w-[100vw] p-3"};function d(o,i){const t=a;return r(),n(l,null,[c(t),e("div",null,[e("main",p,[_(o.$slots,"default")])])],64)}const x=s(m,[["render",d]]);export{x as default};
