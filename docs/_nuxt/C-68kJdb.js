@@ -1,1 +1,0 @@
-import{_ as a}from"./ihxZ04_g.js";import{_ as s,c as n,o as r,a as c,d as e,ab as _,F as l}from"./_DvHSUoK.js";import"./CoVR44pd.js";import"./4jAGinZS.js";const m={},d={class:"w-[100vw]"};function i(o,p){const t=a;return r(),n(l,null,[c(t),e("div",null,[e("main",d,[_(o.$slots,"default")])])],64)}const B=s(m,[["render",i]]);export{B as default};
